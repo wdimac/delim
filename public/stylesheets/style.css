@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+button {
+  padding:0.5rem;
+  margin-left:1rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-left: 2rem;
+}
+.result {
+  margin-top:20px;
+  float:left;
+  display:inline-block;
+  width:20%;
+  height:1rem;
+}
+
+.result strong {
+  padding:2px 5px;
+  background-color:#cccccc;
+}
+
+.low {
+  padding: 2px 5px;
+  background-color:#eeeeee;
+}
+.low:hover {
+  background-color:#8888ff;
+}
+
+.high {
+   padding: 2px 5px;
+   background-color:#ff8866;
+}
